@@ -1,0 +1,5 @@
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Release\ChallengeOne.exe.config
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Release\ChallengeOne.exe
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Release\ChallengeOne.pdb
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\obj\Release\ChallengeOne.exe
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\obj\Release\ChallengeOne.pdb

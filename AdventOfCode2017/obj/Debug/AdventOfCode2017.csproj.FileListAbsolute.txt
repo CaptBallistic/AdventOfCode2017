@@ -1,1 +1,11 @@
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.Properties.Resources.resources
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.UI.resources
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csproj.GenerateResource.Cache
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenges.dll
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenges.pdb

@@ -1,20 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace AdventOfCode2017
 {
-    public partial class Form1 : Form
+    public class ChallengeNumbers
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        private static int[] foo = new int[] { 1, 2, 3 };
+
+        public BindingList<int> challenges = new BindingList<int>(foo);
+        
     }
 }
