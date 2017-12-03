@@ -1,6 +1,0 @@
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Debug\ChallengeOne.exe.config
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Debug\ChallengeOne.exe
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\bin\Debug\ChallengeOne.pdb
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\obj\Debug\ChallengeOne.csprojResolveAssemblyReference.cache
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\obj\Debug\ChallengeOne.exe
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\ChallengeOne\obj\Debug\ChallengeOne.pdb

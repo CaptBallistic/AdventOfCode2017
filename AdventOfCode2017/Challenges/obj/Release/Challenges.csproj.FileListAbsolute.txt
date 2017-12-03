@@ -2,3 +2,5 @@ C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventO
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\Challenges\bin\Release\Challenges.pdb
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\Challenges\obj\Release\Challenges.dll
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\Challenges\obj\Release\Challenges.pdb
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\Challenges\bin\Release\Challenge2Input.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\Challenges\obj\Release\Challenges.csprojResolveAssemblyReference.cache

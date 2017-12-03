@@ -23,7 +23,8 @@ namespace AdventOfCode2017
 
         public enum ChallengesCoded
         {
-            One = 1
+            One = 1,
+            Two = 2
         }
 
         private void UI_Load(object sender, EventArgs e)
@@ -34,7 +35,19 @@ namespace AdventOfCode2017
         public void startProcess (object sender, EventArgs e)
         {
             var modifier = rbtnChallenge1.Checked ? 1 : 2;
-            var result = ChallengeOne.challengeOne(modifier);
+            var result = string.Empty;
+
+            switch (challengeSelect.SelectedItem.ToString())
+            {
+                case "One":
+                    result = ChallengeOne.challengeOne(modifier);
+                    break;
+                case "Two":
+                    result = ChallengeTwo.challengeTwo(modifier);
+                    break;
+                default:
+                    break;
+            }
 
             string messageText = result.ToString();
             string messageCaption = String.Format("Challenge {0} output", challengeSelect.SelectedItem);
