@@ -9,5 +9,9 @@ C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventO
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenges.dll
 C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenges.pdb
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenge2Input.txt
-C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Challenge2InputTest.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge4Input.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge4InputTest.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge3InputTest.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge3Input.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge2Input.txt
+C:\Users\dulliott\Documents\Visual Studio 2015\Projects\AdventOfCode2017\AdventOfCode2017\bin\Debug\Inputs\Challenge2InputTest.txt

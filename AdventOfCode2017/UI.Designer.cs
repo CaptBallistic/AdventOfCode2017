@@ -1,11 +1,16 @@
 ﻿namespace AdventOfCode2017
 {
-    partial class UI
+    public partial class UI
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Button btnGo;
+        private System.Windows.Forms.RadioButton rbtnChallenge1;
+        private System.Windows.Forms.RadioButton rbtChallenge2;
+        private System.Windows.Forms.ComboBox challengeSelect;
+        private System.Windows.Forms.Label label1;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -17,6 +22,7 @@
             {
                 components.Dispose();
             }
+
             base.Dispose(disposing);
         }
 
@@ -43,7 +49,7 @@
             this.btnGo.TabIndex = 0;
             this.btnGo.Text = "Go";
             this.btnGo.UseVisualStyleBackColor = true;
-            this.btnGo.Click += new System.EventHandler(this.startProcess);
+            this.btnGo.Click += new System.EventHandler(this.StartProcess);
             // 
             // rbtnChallenge1
             // 
@@ -104,12 +110,5 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btnGo;
-        private System.Windows.Forms.RadioButton rbtnChallenge1;
-        private System.Windows.Forms.RadioButton rbtChallenge2;
-        private System.Windows.Forms.ComboBox challengeSelect;
-        private System.Windows.Forms.Label label1;
     }
 }
-
