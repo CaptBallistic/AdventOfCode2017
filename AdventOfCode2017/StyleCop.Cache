@@ -125,7 +125,7 @@
     <timestamps>
       <styleCop>2016/10/14 15:57:58.107</styleCop>
       <settingsFile>2017/05/25 10:33:29.547</settingsFile>
-      <sourceFile>2017/12/04 12:03:57.113</sourceFile>
+      <sourceFile>2017/12/05 15:06:03.295</sourceFile>
       <parser>2016/10/14 15:57:58.107</parser>
       <StyleCop.CSharp.DocumentationRules>2016/10/14 15:57:58.107</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>874606522</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -166,6 +166,11 @@
       <violation namespace="StyleCop.CSharp.DocumentationRules" rule="EnumerationItemsMustBeDocumented" ruleCheckId="SA1602">
         <context>The enumeration sub-item must have a documentation header.</context>
         <line>20</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="EnumerationItemsMustBeDocumented" ruleCheckId="SA1602">
+        <context>The enumeration sub-item must have a documentation header.</context>
+        <line>21</line>
         <warning>False</warning>
       </violation>
     </violations>

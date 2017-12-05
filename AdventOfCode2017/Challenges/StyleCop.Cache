@@ -92,14 +92,37 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="240704349">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="ChallengeFour.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/10/14 15:57:58.107</styleCop>
       <settingsFile>2017/05/25 10:33:29.547</settingsFile>
       <sourceFile>2017/12/04 13:09:48.018</sourceFile>
+      <parser>2016/10/14 15:57:58.107</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/10/14 15:57:58.107</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>874606522</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/10/14 15:57:58.107</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/10/14 15:57:58.107</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/10/14 15:57:58.107</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/10/14 15:57:58.107</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/10/14 15:57:58.107</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/10/14 15:57:58.107</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <project key="240704349">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="ChallengeFive.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/14 15:57:58.107</styleCop>
+      <settingsFile>2017/05/25 10:33:29.547</settingsFile>
+      <sourceFile>2017/12/05 15:20:44.943</sourceFile>
       <parser>2016/10/14 15:57:58.107</parser>
       <StyleCop.CSharp.DocumentationRules>2016/10/14 15:57:58.107</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>874606522</StyleCop.CSharp.DocumentationRules.FilesHashCode>

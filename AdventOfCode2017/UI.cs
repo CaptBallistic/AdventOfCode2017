@@ -17,7 +17,8 @@ namespace AdventOfCode2017
             One = 1,
             Two = 2,
             Three = 3,
-            Four = 4
+            Four = 4,
+            Five = 5
         }
 
         public void StartProcess(object sender, EventArgs e)
@@ -38,6 +39,9 @@ namespace AdventOfCode2017
                     break;
                 case "Four":
                     result = ChallengeFour.ChallengeFourResult(modifier);
+                    break;
+                case "Five":
+                    result = ChallengeFive.ChallengeFiveResult(modifier);
                     break;
                 default:
                     break;
